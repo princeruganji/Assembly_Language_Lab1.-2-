@@ -1,8 +1,5 @@
 # Lab 1 Part Two – Assembly Language LED Blinking
 
-## Course Information
-- Course: 04-633 A – Embedded Systems Development (Learning about Electronics)
-- Institution: Carnegie Mellon University Africa
 - Assignment: Lab 1 Part Two – Assembly Language LED Blinking
 
 ## Assignment Overview
