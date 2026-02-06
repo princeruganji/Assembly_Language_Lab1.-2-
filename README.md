@@ -23,7 +23,7 @@ The program supports:
 - Blinking of a **single LED** connected to RA3
 - Blinking of **three LEDs** connected to RA1, RA2, and RA3, either sequentially or individually depending on program logic
 
-An infinite loop ensures that the LEDs continue blinking indefinitely, as required by the assignment.
+An infinite loop ensures that the LEDs continue blinking indefinitely.
 
 ## Hardware and Simulation Setup
 In accordance with the assignment instructions, the Proteus simulation includes:
@@ -57,12 +57,7 @@ These files provide full documentation of the code development and simulation pr
 - Multiple LEDs blink correctly on different output pins, satisfying the main task requirement
 - Proteus simulation confirms correct circuit connections and program execution
 
-## Submission Notes
-In compliance with the assignment submission guidelines:
-- All required files are included in the attached ZIP folder
-- The project is also uploaded to a GitHub repository
-- A GitHub Issue titled **“Lab1-Part-Two Submission”** is created, containing the student name, Andrew ID, and final commit hash
-- The repository link is submitted via Canvas
+
 
 ## Author
 Ruganji Prince
